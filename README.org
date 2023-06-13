@@ -1,0 +1,10 @@
+* ST-JSON
+
+JSON for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marijnh/ST-JSON.git   |
+| commit  | 4a0025b  |
+| systems | ST-JSON |
+|---------+-------------------------------------------|
+
