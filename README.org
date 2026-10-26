@@ -4,7 +4,7 @@ JSON for Common Lisp
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/marijnh/ST-JSON.git |
-| commit  | 4a0025b                                    |
+| commit  | 376fb21                                    |
 | systems | st-json                                    |
 |---------+--------------------------------------------|
   
